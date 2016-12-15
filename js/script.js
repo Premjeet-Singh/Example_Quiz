@@ -23,7 +23,7 @@ function submitAnswers()
 	}
 
 	// ....Set Answers........
-	var answers=["b","a","d","b","d"];
+	var answers=["b","a","c","b","c"];
 
 	// Check Answers..............
 
