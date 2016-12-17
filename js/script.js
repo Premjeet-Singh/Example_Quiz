@@ -4,7 +4,7 @@ function submitAnswers()
 	var total=5,score=0,correct=0,incorrect=0;
 
 	// Get User Inputs......................
-	
+	console.log("Sample Javascript Quiz...");
 	var q1=document.forms["quizForm"]["q1"].value;
 	var q2=document.forms["quizForm"]["q2"].value;
 	var q3=document.forms["quizForm"]["q3"].value;
